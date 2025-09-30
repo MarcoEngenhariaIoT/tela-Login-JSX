@@ -106,4 +106,4 @@ _Estudante de Engenharia de software - Projeto acadêmico_
 
 ## Licença
 
-Este projeto é para fins educacionais e de estudo, pode ser copiado e alterado livremente desde que seja refernciada minha autoria.
+Este projeto é para fins educacionais e de estudo, pode ser copiado e alterado livremente desde que seja referenciada minha autoria.
